@@ -7,4 +7,3 @@ while True:
     my_file.write(n)
 
 my_file.close()
-

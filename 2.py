@@ -1,5 +1,4 @@
 with open("text_2.txt", "r", encoding="utf-8") as my_file:
-
     content = my_file.readlines()
     print(content)
     print("Количество строк в Вашем файле: ", len(content))
